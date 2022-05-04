@@ -29,6 +29,6 @@ A nossa documentação oficial pode ser encontrada em nosso [site oficial](https
 
 ### Feature requests and bug reports
 
-Se você é desenvolvedor e quer contribuir para o projeto, tirar dúvidas ou informar um bug por gentileza acesse nosso discord.
+Se você é desenvolvedor e quer contribuir para o projeto, tirar dúvidas ou informar um bug por gentileza acesse [nosso discord](https://discord.gg/efxeFzjJ).
 
 
