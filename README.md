@@ -1,32 +1,34 @@
-# MEV-geth
+# Web3 do Brasil
 
-This is a fork of go-ethereum, [the original README is here](README.original.md).
+Web 3 do Brasil é um fork do projeto Flashbots, [Cujo README encontra-se aqui](README.flashbots.md).
 
-Flashbots is a research and development organization formed to mitigate the negative externalities and existential risks posed by miner-extractable value (MEV) to smart-contract blockchains. We propose a permissionless, transparent, and fair ecosystem for MEV extraction that reinforce the Ethereum ideals.
+Web 3 do Brasil é uma bloackchain baseada em Ethereum cusjo protpósito é expandir e fomentar o uso da Web 3.0 pela comunidade Brasileira.
 
-## Quick start
+O projeto é open source e contrbuições são sim muito bem vindas!
+
+## Início rápido:
 
 ```
-git clone https://github.com/flashbots/mev-geth
+git clone git@github.com:whitenode32/web3brasil.git
 cd mev-geth
 make geth
 ```
+No cenário ideal, um dia teremos aqui toda a documentação da Flashbots e do Go-Ethereum traduzida em português para auxiliar a compreenção entretanto, para rodar o node não é necessário ter conhecimentos avançados. 
 
-See [here](https://geth.ethereum.org/docs/install-and-build/installing-geth#build-go-ethereum-from-source-code) for further info on building MEV-geth from source.
+De toda forma, você pode sempre recorrer aos sites oficiais dos respectivos projetos se quiser se aprofundar no conhecimento sobre mineração. Segue:
 
-## Documentation
 
-See [here](https://docs.flashbots.net) for Flashbots documentation.
+Veja [aqui](https://geth.ethereum.org/docs/install-and-build/installing-geth#build-go-ethereum-from-source-code) a documentação do Go-Ethereum.
 
-| Version | Spec                                                                                        |
-| ------- | ------------------------------------------------------------------------------------------- |
-| v0.6    | [MEV-Geth Spec v0.6](https://docs.flashbots.net/flashbots-auction/miners/mev-geth-spec/v06) |
-| v0.5    | [MEV-Geth Spec v0.5](https://docs.flashbots.net/flashbots-auction/miners/mev-geth-spec/v05) |
-| v0.4    | [MEV-Geth Spec v0.4](https://docs.flashbots.net/flashbots-auction/miners/mev-geth-spec/v04) |
-| v0.3    | [MEV-Geth Spec v0.3](https://docs.flashbots.net/flashbots-auction/miners/mev-geth-spec/v03) |
-| v0.2    | [MEV-Geth Spec v0.2](https://docs.flashbots.net/flashbots-auction/miners/mev-geth-spec/v02) |
-| v0.1    | [MEV-Geth Spec v0.1](https://docs.flashbots.net/flashbots-auction/miners/mev-geth-spec/v01) |
+E também [aqui](https://docs.flashbots.net) a documentação do Flashbots. 
+
+
+## Nossa Documentação
+
+A nossa documentação oficial pode ser encontrada em nosso [site oficial](https://docs.w3bcoin.com.br)
 
 ### Feature requests and bug reports
 
-If you are a user of MEV-Geth and have suggestions on how to make integration with your current setup easier, or would like to submit a bug report, we encourage you to open an issue in this repository with the `enhancement` or `bug` labels respectively. If you need help getting started, please ask in the dedicated [#⛏️miners](https://discord.gg/rcgADN9qFX) channel in our Discord.
+Se você é desenvolvedor e quer contribuir para o projeto, tirar dúvidas ou informar um bug por gentileza acesse nosso discord.
+
+
